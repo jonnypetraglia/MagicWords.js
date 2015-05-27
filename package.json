@@ -1,0 +1,15 @@
+{
+  "name": "MagicWords.js",
+  "version": "0.1.0",
+  "description": "A minimalistic library for handling keyboard shortcuts in JS",
+  "main": "magic_words.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/notbryant/MagicWords.js.git"
+  },
+  "author": "Jon Petraglia",
+  "license": "MIT"
+}
